@@ -1,1 +1,3 @@
-console.log('Hello World');
+window.helloWorld = () => {
+  alert('Hello World');
+};
